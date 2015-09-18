@@ -25,6 +25,6 @@ public class TestBook {
         b2.print();
 
         b1.getAuthor().print();
-        b2.getAuthor().print();
+        b2.getAuthor().print(); // nothing to comment !!
     }
 }
